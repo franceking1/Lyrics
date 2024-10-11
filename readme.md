@@ -1,14 +1,13 @@
 <h2 style="text-align :center ; color: yellow ; font-size: 50px; font-family: 'Times New Roman', Times, serif;">Lyrics Finder</h2>
----
 
-Install the package 📥
+# Install the package 📥
 
+```bash
+npm install @faouzkk/lyrics-finder
 ```
-npm install @fk/lyrics-finder
-```
----
 
-Usage 📚
+
+# Usage 📚
 
 ```js
 const getLyrics = require('@faouzkk/lyrics-finder');
@@ -23,8 +22,7 @@ const getLyrics = require('@faouzkk/lyrics-finder');
 })();
 ```
 
----
-Contributing 🤝
+# Contributing 🤝
 
     Contributions, issues and feature requests are welcome!
     Feel free to check the issues page.
