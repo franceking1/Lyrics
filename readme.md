@@ -11,7 +11,7 @@ npm install @fk/lyrics-finder
 Usage 📚
 
 ```js
-const getLyrics = require('@fk/lyrics-finder');
+const getLyrics = require('@faouzkk/lyrics-finder');
 
 (async () => {
     try {
