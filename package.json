@@ -1,0 +1,28 @@
+{
+  "name": "lyrics-finder",
+  "version": "1.0.0",
+  "description": "Scrapping lyrics from letras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaouzKK/lyrics-finder.git"
+  },
+  "keywords": [
+    "lyrics",
+    "scrapper",
+    "wep scrapping"
+  ],
+  "author": "FaouzKK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaouzKK/lyrics-finder/issues"
+  },
+  "homepage": "https://github.com/FaouzKK/lyrics-finder#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0"
+  }
+}
