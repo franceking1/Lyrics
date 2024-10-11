@@ -1,6 +1,6 @@
 {
   "name": "@faouzkk/lyrics-finder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Scrapping lyrics from letras",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/FaouzKK/lyrics-finder#readme",
   "dependencies": {
+    "@faouzkk/lyrics-finder": "file:",
     "axios": "^1.7.7",
     "cheerio": "^1.0.0"
   }
