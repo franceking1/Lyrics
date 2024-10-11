@@ -1,0 +1,30 @@
+<h2 style="text-align :center ; color: yellow ; font-size: 50px; font-family: 'Times New Roman', Times, serif;">Lyrics Finder</h2>
+---
+
+Install the package 📥
+
+```
+npm install @fk/lyrics-finder
+```
+---
+
+Usage 📚
+
+```js
+const getLyrics = require('@fk/lyrics-finder');
+
+(async () => {
+    try {
+        const lyrics = await getLyrics('Eminem Lose Yourself');
+        console.log(lyrics);
+    } catch (error) {
+        console.log(error)
+    }
+})();
+```
+
+---
+Contributing 🤝
+
+    Contributions, issues and feature requests are welcome!
+    Feel free to check the issues page.

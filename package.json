@@ -1,5 +1,5 @@
 {
-  "name": "lyrics-finder",
+  "name": "@fk/lyrics-finder",
   "version": "1.0.0",
   "description": "Scrapping lyrics from letras",
   "main": "index.js",
