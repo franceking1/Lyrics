@@ -22,7 +22,4 @@ const getLyrics = require('@faouzkk/lyrics-finder');
 })();
 ```
 
-# Contributing 🤝
-
-    Contributions, issues and feature requests are welcome!
-    Feel free to check the issues page.
+JUST for fun
